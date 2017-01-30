@@ -23,7 +23,7 @@ public class Guess {
         while(true)
         {
             System.out.println("Please guess a number 1-10.");
-            int userGuess = ui.nextInt();
+            byte userGuess = ui.nextByte();
         if(userGuess == compNumber)
         {
             break;
