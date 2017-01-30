@@ -18,8 +18,6 @@ public class Guess {
         Scanner ui = new Scanner(System.in);
         
         byte compNumber = (byte)(rand.nextFloat()* 10 + 1);
-        byte userGuess;
-        int userTry = 0;
         
         System.out.println("Austin's Guessing Game!");
         
