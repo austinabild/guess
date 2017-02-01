@@ -2,7 +2,7 @@
  * Author:      Austin Abild
  * Program:     Guessing Game
  * Purpose:     Allow the user to guess a number 1-10 until they guess the
- *              randomly generated number.
+ *              randomly generated number. This sentence was added in github.
  * Date:        1/27/2017
  */
 package guess;
